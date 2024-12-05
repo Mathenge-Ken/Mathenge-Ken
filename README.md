@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Mathenge-Ken
+- 👀 I’m interested in data analysis be it tabular or spatial data.
+- 🌱 I’m currently learning sql and data visualization.
+- 💞️ I’m looking to collaborate on 
+- 📫 Reach me at mathengeken101@gmail.com
+- 😄 Pronouns: Him/He
+- ⚡ Fun fact: The sky is not blue.
