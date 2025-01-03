@@ -5,5 +5,5 @@
 - 👀 I’m interested in data analysis be it tabular or spatial data.
 - 🌱 I’m currently learning sql and data visualization.
 - :blue_book: Checkout my blog mathengeken.hashnode.dev.
-- 📫 Reach me at mathengeken101@gmail.com
+- 📫 Reach me at kenmathenge011@gmail.com
 - 😄 Pronouns: Him/He
